@@ -1,2 +1,3 @@
 # UNHINGED
-bABAGSAK NAGAYONG SEM
+
+Truk has changed README
